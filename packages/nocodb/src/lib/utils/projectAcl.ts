@@ -130,6 +130,7 @@ export default {
     bulkDataUpdateAll: true,
     bulkDataDelete: true,
     bulkDataDeleteAll: true,
+    bulkSyncAll: true,
     relationDataRemove: true,
     relationDataAdd: true,
     dataCount: true,

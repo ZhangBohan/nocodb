@@ -1845,6 +1845,10 @@ class BaseModelSqlv2 {
     }
   }
 
+  async bulkSyncAll(args: { where?: string; filterArr?: Filter[] } = {}, data) {
+    
+  }
+
   /**
    *  Hooks
    * */
